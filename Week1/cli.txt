@@ -1,0 +1,14 @@
+$ touch .some.txt
+$ mkdir .hidden
+To create a hidden file or folder
+
+
+$ ls -a 
+To display hidden files in the CLI
+
+$ mkdir -p nesteddirectory1/nesteddirectory2/nesteddirectory3
+To create create multiple nested directories
+
+$echo "first message" >> .some.txt
+$echo "second message" >> .some.txt
+To append a message to a file, without a newline character
